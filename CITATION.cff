@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+message: "If you use this code or build on this work, please cite the paper below."
+title: "ML Fault Attacks on TinyML"
+authors:
+  - family-names: Etim
+    given-names: Anthony
+  - family-names: Nampally
+    given-names: Srilalith
+  - family-names: Rasouli
+    given-names: Aubtin
+  - family-names: Mazza
+    given-names: Dustin
+  - family-names: Chilakapati
+    given-names: Krishna
+  - family-names: Chiu
+    given-names: Tinghung
+  - family-names: Erata
+    given-names: Ferhat
+  - family-names: Nazhandali
+    given-names: Leyla
+  - family-names: Xiong
+    given-names: Wenjie
+  - family-names: Szefer
+    given-names: Jakub
+preferred-citation:
+  type: conference-paper
+  title: "Fault Injection Attacks and Countermeasures on TinyML Algorithms"
+  authors:
+    - family-names: Etim
+      given-names: Anthony
+    - family-names: Nampally
+      given-names: Srilalith
+    - family-names: Rasouli
+      given-names: Aubtin
+    - family-names: Mazza
+      given-names: Dustin
+    - family-names: Chilakapati
+      given-names: Krishna
+    - family-names: Chiu
+      given-names: Tinghung
+    - family-names: Erata
+      given-names: Ferhat
+    - family-names: Nazhandali
+      given-names: Leyla
+    - family-names: Xiong
+      given-names: Wenjie
+    - family-names: Szefer
+      given-names: Jakub
+  collection-title: "2026 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)"
+  year: 2026
+  month: 5
+  start: 68
+  end: 78
+  doi: "10.1109/HOST68814.2026.11604834"
+  url: "https://ieeexplore.ieee.org/document/11604834"
+  publisher:
+    name: "IEEE Computer Society"

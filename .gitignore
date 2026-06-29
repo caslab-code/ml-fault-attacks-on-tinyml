@@ -1,0 +1,24 @@
+# Build artifacts
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.lss
+*.map
+*.sym
+*.eep
+*.lst
+
+# Prebuilt/static libraries (rebuilt from source)
+*.a
+
+# Editor / OS cruft
+.DS_Store
+Thumbs.db
+*.swp
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

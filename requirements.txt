@@ -1,0 +1,15 @@
+# Host-side dependencies for the ChipWhisperer-Husky attack notebooks.
+# Developed and tested with Python 3.11.9 (pyenv virtualenv "cw").
+# Pinned to the versions used for the paper's experiments.
+
+chipwhisperer==6.0.0
+optuna==4.9.0
+numpy==1.26.4
+pandas==3.0.3
+matplotlib==3.11.0
+seaborn==0.13.2
+tqdm==4.68.4
+
+# Notebook environment
+jupyterlab==4.6.1
+notebook==7.6.0
